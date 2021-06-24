@@ -14,8 +14,7 @@ The first project for Freecodecamp
   
 <body>
 <!-- partial:index.partial.html -->
-age<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+
 <title> 
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
