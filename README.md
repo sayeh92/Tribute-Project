@@ -10,6 +10,6 @@ The first project for Freecodecamp
 </head>
 <body>
     <h1 style="background-color:orange";>Sayeh Rocks</h1>
-    <h2 style="background-color:orange">The message is short and strong.</h2>
+    
 </body>
 </html>
