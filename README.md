@@ -1,5 +1,5 @@
 # Tribute-Project
-The first project for Freecodecamp
+The first project and funny one!
 <!DOCTYPE html>
 <html lang="en">
 <head>
